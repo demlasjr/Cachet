@@ -19,7 +19,7 @@ return [
         'next_week'     => 'Siguiente semana',
         'none'          => 'No hay ninguna incidencia reportada.',
         'scheduled'     => 'Mantenimiento programado',
-        'scheduled_at'  => 'programado :timestamp',
+        'scheduled_at'  => ' programado :timestamp',
         'status'        => [
             0 => '',
             1 => 'Investigando',
